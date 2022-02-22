@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Gary/Program/C++/DataStructure/RedBlackTree/RBTree.cpp
+iostream
+-
+iomanip
+-
+RBTree.h
+D:/Gary/Program/C++/DataStructure/RedBlackTree/RBTree.h
+
+D:/Gary/Program/C++/DataStructure/RedBlackTree/RBTree.h
+
+D:/Gary/Program/C++/DataStructure/RedBlackTree/main.cpp
+iostream
+-
+RBTree.h
+D:/Gary/Program/C++/DataStructure/RedBlackTree/RBTree.h
+
